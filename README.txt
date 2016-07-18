@@ -1,5 +1,5 @@
 
-V2.6.9 – July 2016
+V2.6.9 – July 19 2016
 
 The UNC and long path name fixes still had not entirely worked as hoped when tested on big data sets. Further fixes implemented to ensure the filename and path to an existing file in a very long path is detected, and likewise re-created when copied. 
 
